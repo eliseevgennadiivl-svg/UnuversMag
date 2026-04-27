@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Мой магазин</title>
+    <link>https://your-site.ru</link>
+    <description>Товары магазина</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 27 Apr 2026 16:16:29 +0000</lastBuildDate>
+    <item>
+      <title>Шуруповёрт Макита</title>
+      <description>&lt;p&gt;Если вы хотите сделать свою жизнь проще и продуктивнее, то шуруповёрт Макита – это то, что вам нужно. Этот инструмент идеально подходит для выполнения различных работ как в домашних условиях, так и в профессиональной сфере. С версией 12-14 и патроном на 13 мм, он справится с любыми задачами, от сборки мебели до мелкого ремонта. Несмотря на то, что устройство поставляется без аккумулятора, его надежность и качество, как у всех инструментов Makita, говорят сами за себя. За 3300 рублей вы получаете отличный инструмент, который прослужит вам долго. Если вы ищете что-то стоящее, обратите внимание на этот шуруповёрт!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;версия 12-14&lt;/li&gt;&lt;li&gt;патрон 13 мм&lt;/li&gt;&lt;li&gt;без АКБ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Цена: 3 300 ₽&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://your-site.ru/product/1777306589.044924</guid>
+      <pubDate>Mon, 27 Apr 2026 19:16:29 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
